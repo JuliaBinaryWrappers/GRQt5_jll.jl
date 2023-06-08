@@ -1,0 +1,162 @@
+[[GRQt5]]
+arch = "aarch64"
+git-tree-sha1 = "8e75b032c708942bf06cdead7f22406bb9116bc9"
+os = "macos"
+
+    [[GRQt5.download]]
+    sha256 = "f985a3a8f42ac20b65808b7ec3a74b922c30a792a4080693f4446383874b0d40"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.aarch64-apple-darwin.tar.gz"
+[[GRQt5]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48a1dbbf4dc66c1a33554b792c07b966ab9a13ad"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt5.download]]
+    sha256 = "822032e3ba283e3e81b0540ba8afe89c46a7a2374b93a03645fdaaaa340cef34"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.aarch64-linux-gnu-cxx03.tar.gz"
+[[GRQt5]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "87285adea149ec083a22daa0ea8f4334d8f26b63"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt5.download]]
+    sha256 = "419c071b6ae4d00b900ebf34a544455ec8619763d38b3380c989318bfbbd0c79"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.aarch64-linux-gnu-cxx11.tar.gz"
+[[GRQt5]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d760ed0a9e4269c878adb53b9e7b29c17ef2ef79"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt5.download]]
+    sha256 = "f5b6cdb4e0a035bbeed31bbfc23420982f15c5ac11c4c5e940c22cf2b441139f"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[GRQt5]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b48c9edaf71c877cc468f0c9f701364f7998382"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt5.download]]
+    sha256 = "1580f3468fa90e0726f96a9986406551d9daf7dab3e54c14d1089b480af7d2ab"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[GRQt5]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5167f978378451f25c8a725a531d6f144dfb915b"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt5.download]]
+    sha256 = "13553071d788ae30144a40262ca61193f6890307de901c40629cdf7c9a59a728"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.i686-linux-gnu-cxx03.tar.gz"
+[[GRQt5]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b923d2a6345e9ae7858ab7974251244e2a721647"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt5.download]]
+    sha256 = "4e83f4d823206422e516259212fcde54e74455a0d79b2d2b44c1a79c23f71b7f"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.i686-linux-gnu-cxx11.tar.gz"
+[[GRQt5]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "32fa326a1e91955a9addd540e41643db6ee97abf"
+os = "windows"
+
+    [[GRQt5.download]]
+    sha256 = "c9d7a0f4191f179393e3e00da7859d4ab864f0a1ff4ddcf96002cee77f40788d"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.i686-w64-mingw32-cxx03.tar.gz"
+[[GRQt5]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5e8397a1c7e9dee7d60810c880e028d0f71a87b"
+os = "windows"
+
+    [[GRQt5.download]]
+    sha256 = "f6fc24c3224908fea028c1397f21e062865e847a6336ea23e3f90fbcb32a7abf"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.i686-w64-mingw32-cxx11.tar.gz"
+[[GRQt5]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a3c01cae8946cdbc5b4cf8a632ba4dc9d8cd8ed"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt5.download]]
+    sha256 = "3c08bb125e309a1add5b946a6d30011cc76f2a1ec6a273f25fb8b22d28f6dcc9"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[GRQt5]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d2d065fc9dade6242f3ad24d2e1ed019eb1cf8a4"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt5.download]]
+    sha256 = "bc001366f7008ba835f5530b10d09410b8aac0d0d9706b2ccd507846e68ae32b"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GRQt5]]
+arch = "x86_64"
+git-tree-sha1 = "04f91d1fdf8fa7d4be635b3ef5049db550785597"
+os = "macos"
+
+    [[GRQt5.download]]
+    sha256 = "14d8ded51cde3622c90a2c83bdfc253d63d1da7b3b462cd3fe6439a8cd94a7b8"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.x86_64-apple-darwin.tar.gz"
+[[GRQt5]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ec3a750b09b37ee17603512cc10fb8309de37a90"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt5.download]]
+    sha256 = "e2c50bf7e18558d2bd364a9de6178591037514102ae896f3a09e3a8159fa276e"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.x86_64-linux-gnu-cxx03.tar.gz"
+[[GRQt5]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "70d069e45a3188d7b8f7facc93b02e00a0bd0624"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt5.download]]
+    sha256 = "9bef550c7532ed3a9623c1ace18c8d2b50a93e419fa569b7831cd53903c13dba"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.x86_64-linux-gnu-cxx11.tar.gz"
+[[GRQt5]]
+arch = "x86_64"
+git-tree-sha1 = "f6defa47bc6a8ef2314d9e07bc26215ec1eed874"
+os = "freebsd"
+
+    [[GRQt5.download]]
+    sha256 = "e07877f2654158d47178bb7be93f7a2d82665afd7d663887c01ca2a3e37f2545"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.x86_64-unknown-freebsd.tar.gz"
+[[GRQt5]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a3992a1b82119d169cdb908225c1e5f41e3da91b"
+os = "windows"
+
+    [[GRQt5.download]]
+    sha256 = "7d8b5855f419cc054260eafe3f37db057e866587ac37e2b91ae3788340fa2ff7"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.x86_64-w64-mingw32-cxx03.tar.gz"
+[[GRQt5]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8cb8f9b2467a82690bd457698fe1d6f6d13aa4dd"
+os = "windows"
+
+    [[GRQt5.download]]
+    sha256 = "bc8605e2a2e59b8ca8a4258e24f58c41b7cd71a400672d3db2095aab41ac1972"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt5_jll.jl/releases/download/GRQt5-v0.72.7+0/GRQt5.v0.72.7.x86_64-w64-mingw32-cxx11.tar.gz"
